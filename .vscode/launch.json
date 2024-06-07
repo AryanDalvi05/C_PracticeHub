@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sakshidalvi/Desktop/c-git",
+      "program": "/Users/sakshidalvi/Desktop/c-git/build/Debug/outDebug"
+    }
+  ]
+}
